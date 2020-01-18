@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Right_ear", "bone": "root", "attachment": "Right_ear" },
+	{ "name": "Layer 15", "bone": "root", "attachment": "Layer 15" },
+	{ "name": "Left_Ear", "bone": "root", "attachment": "Left_Ear" },
+	{ "name": "glow", "bone": "root", "attachment": "glow" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "Layer 12" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"Right_ear": {
+			"Right_ear": { "x": 1013.5, "y": -743.5, "width": 187, "height": 813 }
+		},
+		"Layer 15": {
+			"Layer 15": { "x": 1006, "y": -1165, "width": 852, "height": 926 }
+		},
+		"Left_Ear": {
+			"Left_Ear": { "x": 1176.5, "y": -808.5, "width": 369, "height": 1071 }
+		},
+		"glow": {
+			"glow": { "x": 1143, "y": -826.5, "width": 430, "height": 1015 }
+		},
+		"Layer 12": {
+			"Layer 12": { "x": 853.5, "y": -1039.5, "width": 381, "height": 483 }
+		},
+		"head": {
+			"head": { "x": 723.5, "y": -882, "width": 577, "height": 176 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

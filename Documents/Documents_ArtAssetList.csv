@@ -1,0 +1,118 @@
+﻿Assets,Priority,Asset Descrip,Assigned Person,Progress Status,Time Needed Estimation,In Engine
+Lvl1_Concept,High,Concepts and thumbnails,Chelsea Liang,Done,3:00,
+M1_Slide_BG,High,,Chelsea Liang,Done,3:00,
+Lvl1_LvlFrame_1,High,,Chelsea Liang,Done,1:00,
+Lvl1_LvlFrame_2,High,,Chelsea Liang,Done,1:00,
+Lvl1_LvlFrame_3,High,,Chelsea Liang,Done,1:00,
+Lvl1_LvlFrame_4,High,,Chelsea Liang,Done,1:00,
+Lvl1_LvlFrame_5,High,,Chelsea Liang,Done,1:00,
+Props_Cave_Floor_Middle,High,,Chelsea Liang,Done,0:30,checked
+Props_Rock_01,High,,Chelsea Liang,Done,0:30,
+Props_BrickFloor_01,High,tiled,Chelsea Liang,Done,0:30,
+Props_BrickFloor_02,High,tiled,Chelsea Liang,Done,0:30,
+Props_Stalactite_01,High,,Chelsea Liang,Done,0:30,
+Props_BrickCeiling_01,High,,Chelsea Liang,Done,0:30,
+Background_LVL1_S1,High,,Chelsea Liang,Done,1:30,checked
+Background_LVL1_S2,High,,Chelsea Liang,Done,1:30,checked
+Background_LVL1_S3,High,,Chelsea Liang,Done,1:30,
+StyleGuide_BG,High,,Chelsea Liang,Done,4:00,
+Props_Cave_Floor_Left,High,,Chelsea Liang,Done,0:30,checked
+Props_Cave_Floor_Right,High,,Chelsea Liang,Done,0:30,checked
+Team Logo Concept,High,Conceptualizing,Christine Medina,Done,,
+Game Title Concept,High,,Christine Medina,Done,,
+FlameAni,High,Sprite Sheet,Christine Medina,Done,,
+Keyart/Splashscreen,High,splash screen that describes the whole game,Christine Medina,In Progress,,
+Props_CrystalShard_Final,High,shard particle from crystal breaking,Christine Medina,Done,,
+UI_Heart,High,life hearts for player,Christine Medina,Done,,
+Props_StoneLantern_Final,High,,Christine Medina,Done,,
+Prop_Cliff_Face_01,High,,Christine Medina,Done,0:30,checked
+Props_Cave_Ceiling,High,,Christine Medina,Not started,0:30,
+Prop_CaveSlope_02,High,,Christine Medina,Done,0:30,checked
+Props_BrickWall_01,High,tiled,Christine Medina,Done,0:30,checked
+Props_CaveWall_01,High,natural cave wall to be used as boundary on the outer sides of level,Christine Medina,Not started,0:30,
+Props_BrickWall_02,High,tiled,Christine Medina,Done,0:30,
+Props_Lantern_01,High,,Christine Medina,Done,0:30,checked
+Props_Crystal_01,High,,Christine Medina,Done,0:30,checked
+Props_Brazier_01,High,,Christine Medina,Done,0:30,
+Props_Lantern_02,High,,Christine Medina,Done,0:30,
+Props_Platform_01,High,,Christine Medina,Done,0:30,
+Props_Platform_02,High,,Christine Medina,Done,0:30,
+Props_Platform_03,High,,Christine Medina,Done,0:30,
+Props_Platform_04,High,,Christine Medina,Done,0:30,
+Props_Platform_05,High,,Christine Medina,Done,0:30,
+Props_RockSlope_01,High,,Christine Medina,Done,0:30,
+Props_RockSlope_02,High,,Christine Medina,Done,0:30,
+Props_RockSlope_03,High,,Christine Medina,Done,0:30,
+Props_RockSlope_04,High,,Christine Medina,Done,0:30,
+Props_RockSlope_05,High,,Christine Medina,Done,0:30,
+Prop_CliffMiddle,High,,Christine Medina,Done,0:30,checked
+Prop_Cliff_Face_02,High,,Christine Medina,Done,0:30,checked
+FangConcept1,High,Fang concept,Julyanne Spragg,Done,3:30,
+FangWalkTestAni,High,Fang test walk ani,Julyanne Spragg,Done,2:50,
+FangAttackTestAni,High,"Fang test attack ani
+",Julyanne Spragg,Done,2:50,
+FangConcept2,High,Fang concept,Julyanne Spragg,Done,3:00,
+Fang_Run_FinalAni,High,,Julyanne Spragg,Done,3:00,checked
+Fang_FinalDes,High,,Julyanne Spragg,Done,3:00,checked
+Fang_Attack_FinalAni,High,,Julyanne Spragg,Done,3:00,checked
+Fang_DeathAni,High,,Julyanne Spragg,Done,6:00,checked
+Fang_Idle_FinalAni,High,,Julyanne Spragg,Done,6:00,checked
+Fang_Hurtani,High,,Julyanne Spragg,Done,6:00,checked
+SightFinDes,High,Final character concept for animation,Sophia Wang,Done,10:00,checked
+SightConcept,High,Concept Sketches,Sophia Wang,Done,15:00,
+SightRunAni,High,Run Ani,Sophia Wang,Done,8:00,checked
+SightDeathAni,High,Death Ani,Sophia Wang,Done,2:00,checked
+SightRigging,High,Rigging Sight,Sophia Wang,Done,8:00,
+SightDiveBombAni,High,"Dive Bomb Ani
+",Sophia Wang,Done,4:00,
+SightIdleAni,High,Idle Ani,Sophia Wang,Done,2:00,checked
+SightJumpLaunchAni,High,Jumping off the ground Ani,Sophia Wang,Done,4:00,checked
+SightGlideAni,High,Floating/Gliding Ani,Sophia Wang,Done,1:30,checked
+SightLandAni,High,"Landing on ground Ani
+",Sophia Wang,Done,3:00,checked
+SightDashAni,High,Dash Animation,Sophia Wang,Done,4:00,checked
+SightDiveBombLandAni,High,Landing after Dive Bomb Ani,Sophia Wang,Done,3:00,
+SightThrust,High,"Sight Jump Airborne
+",Sophia Wang,Done,2:00,checked
+Prop_Rock_02,Medium,,Chelsea Liang,Done,0:30,
+Prop_Pillar_02,Medium,,Chelsea Liang,Not started,0:45,
+Prop_BrokenPillar_01,Medium,,Chelsea Liang,Not started,0:45,
+Prop_BrokenPillar_02,Medium,,Chelsea Liang,Not started,0:45,
+Prop_Stalactite_02,Medium,,Chelsea Liang,Not started,0:30,
+Prop_Stalactite_03,Medium,,Chelsea Liang,Not started,0:30,
+Background_LVL1_S4,Medium,,Chelsea Liang,Not started,8:00,
+UI_Concept,Medium,wireframes / tests,Christine Medina,Done,,
+UI_Font_Final,Medium,final assets,Christine Medina,Done,,
+UI_Font_Placeholder,Medium,placeholders,Christine Medina,Done,,checked
+Team Logo Final,Medium,Final Render,Christine Medina,Done,,
+Game Title,Medium,game title final,Christine Medina,Not started,,
+UI_Menu_Final,Medium,,Christine Medina,Not started,,
+Prop_Stair_01,Medium,,Christine Medina,Not started,,
+Prop_Stair_02,Medium,,Christine Medina,Not started,,
+Prop_Pillar_01,Medium,,Christine Medina,Done,,
+Prop_BrickFloor_03,Medium,tiled,Christine Medina,Not started,,
+Prop_BrickFloor_04,Medium,tiled,Christine Medina,Not started,,
+Prop_BrickCeiling_02,Medium,,Christine Medina,Not started,,
+Prop_Lantern_02,Medium,,Christine Medina,Done,,
+TouchConcept,Medium,touch concepts,Julyanne Spragg,Done,3:20,
+TouchFinDes,Medium,touch final concept,Julyanne Spragg,Done,2:00,
+PerceptionConcept,Medium,Perception concepts,Julyanne Spragg,Done,2:00,
+PerceptionFinDes,Medium,"Perception 
+final concept",Julyanne Spragg,Done,2:00,checked
+PerceptionIdleAni,Medium,Perception idle ani,Julyanne Spragg,Done,3:00,checked
+Perception AlertAni,Medium,Perception alert ani,Julyanne Spragg,Not started,,
+PerceptionAttackAni,Medium,Perception attack ani,Julyanne Spragg,Done,3:00,checked
+Touch_Idle,Medium,,Julyanne Spragg,Not started,,
+SightRespawnAni,Medium,"Respawning when Sight wakes up
+",Sophia Wang,Not started,,
+Prop_BrokenPillar_03,Low,,Chelsea Liang,Not started,,
+Background_LVL1_S5,Low,,Chelsea Liang,Not started,8:00,
+Background_LVL1_S6,Low,,Chelsea Liang,Not started,8:00,
+Tutorial_Buttons,Low,ui button for tutorial area,Christine Medina,Not started,,
+UI_Menu_Buttons,Low,,Christine Medina,Not started,,
+Prop_BrickCeiling_03,Low,,Christine Medina,Not started,,
+TouchHealTestAni,Low,touch test healing ani,Julyanne Spragg,Done,2:00,
+ScentConcept,Low,,Julyanne Spragg,In Progress,5:00,
+SightShootAni,Low,Shoot Ani,Sophia Wang,Not started,,
+SightHitAni,Low,Getting Hit Ani,Sophia Wang,Not started,,
+SightSwitchDirections,Low,make sight smoothly switch directions whenever the player starts walking in the opposite direction,Sophia Wang,Not started,,
